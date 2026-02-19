@@ -1,0 +1,13 @@
+svg{
+    max-width: 60px;
+fill:darkslateblue
+
+}
+#dot{
+    fill:cornflowerblue
+}
+
+svg:hover{
+    transform: scale(1.1);
+    fill:cornflowerblue
+}
